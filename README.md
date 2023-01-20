@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any of the data-science projects**
 
-- 💬 Ask me about **anything data-science related & I'll be happy to help**
+- 💬 Ask me about **anything data-science related (Exploratory Data Analysis, Feature Engineering, Supervised & Unsupervised machine learning etc.)  & I'll be happy to help**
 
 - 📫 How to reach me **promilasharan8@gmail.com**
 
