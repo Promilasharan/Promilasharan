@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **promilasharan8@gmail.com**
 
-- ⚡ Fun fact **I enjoy horse riding when I'm not coding!**
+- ⚡ Fun fact **I enjoy meditation when I'm not coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
