@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Promila Sharan, PhD</h1>
 <h3 align="center">Data Scientist | Machine Learning Scientist</h3>
 
-- 🔭 I’m currently working on **building up my GitHub profile with data-science projects**
+- 🔭 I’m currently working on **exploring the latest developments in machine learning and applying them to solve real-world problems in different domains**
 
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing (NLP), Pyspark, Azure Databricks**
+- 🌱 I’m currently learning **Deep Learning, Natural Language Processing (NLP)**
 
 - 👯 I’m looking to collaborate on **any of the data-science projects**
 
